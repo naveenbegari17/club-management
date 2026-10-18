@@ -1,0 +1,6 @@
+{
+  "name": "ClubSync - Campus Workspace",
+  "description": "Cross-Domain Velocity & Performance Intelligence workspace for university student governance, club operations, and deliverable tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
